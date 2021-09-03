@@ -1,4 +1,4 @@
-module example.com/gthomas/first_tutorial
+module github.com/gthomas0/first_tutorial
 
 go 1.17
 
